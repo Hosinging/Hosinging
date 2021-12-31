@@ -4,7 +4,7 @@
 
 다양한 시각으로 서비스를 뜯어보며, 기술적으로 서비스에 대한 가치를 만들어낼 수 있는 개발자를 꿈꿉니다.
 
-#### 🔥 [TIL](bit.ly/3FFlXx5) (기존 작성 내용 기반 주제별 세분화 및 재 정리중)
+#### 🔥 [TIL](https://www.notion.so/pdhou23/e61e5fa8fc1f4fffaa98429432452258?v=90bb76de579341a2ae22ddbac4d85881) (기존 작성 내용 기반 주제별 세분화 및 재 정리중)
 #### 🙏🏻 Mail: pdhou23@kakao.com
 
 
