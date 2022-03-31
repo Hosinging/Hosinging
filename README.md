@@ -6,7 +6,7 @@
 
 ---
 
-#### 🔥 [TIL]기존 작성 내용 기반 주제별 세분화 및 재 정리중입니다.
+#### 🔥 [TIL](https://www.notion.so/pdhou230/671974b19cfd416d8d1320b5e88cda0a?v=cb1b3bcb3c8f45f28fdda642feb89fb8)기존 작성 내용 기반 주제별 세분화 및 재 정리중입니다.
 #### 🙏🏻 Mail: pdhou23@kakao.com
 
 
