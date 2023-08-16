@@ -6,7 +6,7 @@
 
 ---
 
-#### 🔥 [Blog](https://devtheo.tistory.com/)기존 작성 내용 기반 저작권 문제가 없는 선에서 주제별 세분화 및 재 정리중입니다.
+#### 🔥 [Blog: ](https://devtheo.tistory.com/)기존 작성 내용 기반 저작권 문제가 없는 선에서 주제별 세분화 및 재 정리중입니다.
 #### 🙏🏻 Mail: pdhou23@kakao.com
 
 
