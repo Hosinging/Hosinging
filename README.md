@@ -12,7 +12,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=yeblu)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pdhou86)](https://solved.ac/pdhou86)
 <!---
 Hosinging/Hosinging is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
