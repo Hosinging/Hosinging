@@ -8,8 +8,6 @@
 
 #### 🔥 [Blog: ](https://devtheo.tistory.com/)기존 작성 내용 기반 저작권 문제가 없는 선에서 주제별 세분화 및 재 정리중입니다.
 #### 🙏🏻 Mail: pdhou23@kakao.com
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=yeblu&count_private=true&include_all_commits=true&nocache=1)
 <!---
 Hosinging/Hosinging is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   ![](https://ghchart.rshah.org/409ba5/Hosinging)
   
   <!-- 활동 그래프 -->
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=yeblu&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!-- 전체 통계 (커밋 수 포함) -->
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
