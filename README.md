@@ -16,6 +16,7 @@ Hosinging/Hosinging is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <div align="center">
   
   <!-- 연속 기여 일수 -->
@@ -23,4 +24,8 @@ You can click the Preview link to take a look at your changes.
   
   <!-- 기여도 캘린더 -->
   ![](https://ghchart.rshah.org/409ba5/Hosinging)
+  
+  <!-- 활동 그래프 -->
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </div>
