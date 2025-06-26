@@ -17,12 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hosinging&theme=onedark&column=7&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Metrics](https://metrics.lecoq.io/Hosinging?template=classic&commits.authoring=Hosinging&config.timezone=Asia%2FSeoul)
-
 <div align="center">
-  
-  <!-- 연속 기여 일수 -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hosinging&theme=dark)](https://git.io/streak-stats)
   
   <!-- 기여도 캘린더 -->
   ![](https://ghchart.rshah.org/409ba5/Hosinging)
