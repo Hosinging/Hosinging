@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 [![Hosinging's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!-- 전체 통계 (커밋 수 포함) -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=yelbu&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
   
   <!-- 커밋 활동 배지 -->
   ![](https://img.shields.io/badge/Total%20Commits-2.5k+-brightgreen?style=for-the-badge&logo=github)
