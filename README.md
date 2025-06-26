@@ -15,3 +15,12 @@
 Hosinging/Hosinging is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  
+  <!-- 연속 기여 일수 -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hosinging&theme=dark)](https://git.io/streak-stats)
+  
+  <!-- 기여도 캘린더 -->
+  ![](https://ghchart.rshah.org/409ba5/Hosinging)
+</div>
