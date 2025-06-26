@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   ![](https://ghchart.rshah.org/409ba5/Hosinging)
   
   <!-- 활동 그래프 -->
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=yeblu&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=dark-ray&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!-- 전체 통계 (커밋 수 포함) -->
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
@@ -32,4 +32,6 @@ You can click the Preview link to take a look at your changes.
   
   <!-- 월간/연간 커밋 활동 -->
   ![Commits per month](https://img.shields.io/github/commit-activity/m/Hosinging/your-main-repo?style=flat-square&label=Commits%20per%20month)
+
+  ![Metrics](https://metrics.lecoq.io/Hosinging?template=classic&commits.authoring=Hosinging&config.timezone=Asia%2FSeoul)
 </div>
