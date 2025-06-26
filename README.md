@@ -13,25 +13,17 @@ Hosinging/Hosinging is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hosinging&theme=onedark&column=7&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
-  
-  <!-- 기여도 캘린더 -->
-  ![](https://ghchart.rshah.org/409ba5/Hosinging)
-  
   <!-- 활동 그래프 -->
 [![Hosinging's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!-- 전체 통계 (커밋 수 포함) -->
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true)
   
-  <!-- 커밋 활동 배지 -->
-  ![](https://img.shields.io/badge/Total%20Commits-2.5k+-brightgreen?style=for-the-badge&logo=github)
-  ![](https://img.shields.io/badge/2024%20Commits-500+-blue?style=for-the-badge&logo=github)
-  
   <!-- 월간/연간 커밋 활동 -->
   ![Commits per month](https://img.shields.io/github/commit-activity/m/Hosinging/your-main-repo?style=flat-square&label=Commits%20per%20month)
 
   ![Metrics](https://metrics.lecoq.io/Hosinging?template=classic&commits.authoring=Hosinging&config.timezone=Asia%2FSeoul)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Hosinging&theme=onedark&column=7&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
