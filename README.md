@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 최근 1년 통계 (커밋 수 포함) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=yeblu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 활동 그래프 -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hosinging&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
