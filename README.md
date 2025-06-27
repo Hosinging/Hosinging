@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 GitHub Statistics
 
+### 📊 GitHub Statistics
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hosinging&show_icons=true&theme=yeblu&count_private=true&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 
-![Total Commits](https://img.shields.io/badge/Total-89%20commits-brightgreen?style=flat-square&logo=git)
-![2025 Commits](https://img.shields.io/badge/2025-29%20commits-blue?style=flat-square&logo=github)
-![2024 Commits](https://img.shields.io/badge/2024-60%20commits-orange?style=flat-square&logo=github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hosinging&theme=dark)](https://git.io/streak-stats)
